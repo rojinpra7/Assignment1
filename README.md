@@ -4,6 +4,25 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
 
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [ x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x ] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthrough GIF
+
+<img src="https://github.com/rojinpra7/Assignment1/blob/main/flix2.gif" width=250><br>
+
+### Notes
+Describe any challenges encountered while building the app.
+Build the app and completed before the deadline and tried the bonus part before submitting the required part but got error and couldn't figure out the bonus part and it changed my whole code and couldn't find out the error and had to restart the assignment
 ---
 
 ## Flix Part 1
@@ -20,9 +39,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="https://imgur.com/a/E6GJNmE" width=250><br>
+<img src="https://github.com/rojinpra7/Assignment1/blob/main/ezgif.com-video-to-gif-2.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
+-Struggled with to learn the swift code so bascially just did what on video said and it took time to upload my gif file
